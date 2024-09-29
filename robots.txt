@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vakoboqesuma.netlify.app/sitemap.xml
